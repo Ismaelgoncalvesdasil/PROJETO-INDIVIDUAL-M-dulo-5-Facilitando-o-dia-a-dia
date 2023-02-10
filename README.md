@@ -1,7 +1,3 @@
-[<style>
-    background-color: black;
-</style>]
-
 # PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia 
 
 
