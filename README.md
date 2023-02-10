@@ -54,8 +54,7 @@ Faça o clone do repositório
 
 Instale as dependências caso necessário
 ```bash
-  npm i chalk@4.1.2
-  npm i readline-sync
+ npm i chalk@4.1.2 readline-sync
 ```
 
 Eexecutar o projeto
